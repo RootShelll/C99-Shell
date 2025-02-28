@@ -106,3 +106,8 @@ Download the latest version from [GitHub](https://github.com/RootShelll/C99-Shel
 - GitHub: [https://github.com/RootShelll/C99-Shell](https://github.com/RootShelll/C99-Shell)
 - WebSite EN: [https://r00t-shell.com/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
 - WebSite TR: [https://r00t-shell.com/tr/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/tr/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite ES: [https://r00t-shell.com/es/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/es/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite RU: [https://r00t-shell.com/ru/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/ru/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite IN: [https://r00t-shell.com/hi/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/hi/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite ID: [https://r00t-shell.com/id/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/id/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite AR: [https://r00t-shell.com/ar/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/ar/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
