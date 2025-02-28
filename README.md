@@ -2,7 +2,7 @@
 
 C99 Shell is a powerful PHP-based web shell tool that provides full control over servers. Designed for system administrators and security experts, this tool is perfect for remote access and server management.
 
-![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell.png)
+![C99 Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell.png)
 
 ## 📝 Login Information
 - **Username:** `admin`
@@ -89,9 +89,9 @@ C99 Shell gives full access to your server. Please take the following security p
 - **Do not store the shell in public directories.**
 
 **Warning:** Using C99 Shell without permission is illegal and unethical!
+![C99 Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell-Login-Panel.png)
+![C99 Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell.png)
 
-![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell.png)
-![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell-Login-Panel.png)
 
 ## 📥 Download
 
