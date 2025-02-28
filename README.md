@@ -90,6 +90,9 @@ C99 Shell gives full access to your server. Please take the following security p
 
 **Warning:** Using C99 Shell without permission is illegal and unethical!
 
+![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell.png)
+![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/C99-Shell-Login-Panel.png)
+
 ## 📥 Download
 
 Download the latest version from [GitHub](https://github.com/RootShelll/C99-Shell).
@@ -101,3 +104,5 @@ Download the latest version from [GitHub](https://github.com/RootShelll/C99-Shel
 **Social Media and Contact:**
 
 - GitHub: [https://github.com/RootShelll/C99-Shell](https://github.com/RootShelll/C99-Shell)
+- WebSite EN: [https://r00t-shell.com/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
+- WebSite TR: [https://r00t-shell.com/tr/c99-shell-v2-2-advanced-php-web-shell-for-server-management/](https://r00t-shell.com/tr/c99-shell-v2-2-advanced-php-web-shell-for-server-management/)
